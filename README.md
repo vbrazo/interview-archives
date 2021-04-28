@@ -6,6 +6,7 @@ This is my personal interviews archives and it's where I store my research that 
   - [Ruby on Rails](#ruby-on-rails)
   - [iOS](#ios)
   - [Android](#android)
+  - [QA](#qa)
   - [Systems Design](#systems-design)
     - [General Questions](#general-questions) 
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
@@ -69,6 +70,17 @@ This is my personal interviews archives and it's where I store my research that 
 - Explain the MVC architecture in Android
 - Explain the MVP architecture in Android
 - Explain the MVVM architecture in Android
+
+## QA
+
+- Can you write test scripts? What testing software do you use?
+- Tell me about your experience with automated and manual testing.
+- What was the best catch you ever made?
+- Tell me about the bug that got away.
+- How do you write a test case?
+- How do you organize your work?
+- How much time is enough time to test for a release?
+- How important is it for QA to take part in development planning sessions?
 
 ## Systems Design
 

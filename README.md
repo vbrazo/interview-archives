@@ -3,23 +3,44 @@
 This is my personal interviews archives and it's where I store my research that aims to provide resources to better work with teams of developers in my engineering management journey.
 
 - [Interview Archives](#interview-archives)
-  - [Microservices x Monolithic application](#microservices-x-monolithic-application)
-    - [Microservices](#microservices)
-      - [Benefits](#benefits)
-      - [Drawbacks](#drawbacks)
-    - [Monolithic](#monolithic)
-      - [Benefits](#benefits)
-      - [Drawbacks](#drawbacks)
   - [System Design](#system-design)
+    - [Microservices x Monolithic application](#microservices-x-monolithic-application)
+      - [Microservices](#microservices)
+        - [Benefits](#benefits)
+        - [Drawbacks](#drawbacks)
+      - [Monolithic](#monolithic)
+        - [Benefits](#benefits)
+        - [Drawbacks](#drawbacks)
   - [Ruby on Rails](#ruby-on-rails)
 
-## Microservices x Monolithic application
+## System Design
 
-### Microservices
+- What's availability of a system?
+- What's the latency between systems?
+- What's throughput of a system? How do you measure throughput?
+- When do we need load balancing? Explain what load balancing is and use cases.
+- When do we need Database Replication?
+- When do we need Sharding?
+- What's Rate Limiting and when do we need to implement it?
+- Explain with your own words what Publish/Subscribe Pattern is.
+- What's a reverse proxy and when to use?
+- What happens when you type https://www.paywith.com in your browser?
+- What's TCP/IP and HTTP? What are their responsibilities?
+- Do you have experience with Relational databases? Which ones?
+- Do you have experience with Non-Relational databases? Which ones?
+- What other types of Storage do you know?
+- What's the difference between Pooling and Streaming?
+- What are Peer-To-Peer Networks?
+- What's Leader Election?
+- What's MapReduce?
+
+### Microservices x Monolithic application
+
+#### Microservices
 
 <img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%201%20-%20microservices_app.png width=1000 />
 
-#### Benefits
+##### Benefits
 
 - It tackles the problem of complexity by decomposing application into a set of manageable services which are much faster to develop, and much easier to understand and maintain.
 - It enables each service to be developed independently by a team that is focused on that service.
@@ -27,7 +48,7 @@ This is my personal interviews archives and it's where I store my research that 
 - Microservice architecture enables each microservice to be deployed independently. As a result, it makes continuous deployment possible for complex applications.
 - Microservice architecture enables each service to be scaled independently.
 
-#### Drawbacks
+##### Drawbacks
 
 - Microservices architecture adding complexity to the project just by the fact that a microservices application is a distributed system. You need to choose and implement an inter-process communication mechanism based on either messaging or RPC and write code to handle partial failure and take into account other fallacies of distributed computing.
 - Microservices have a partitioned database architecture. Business transactions that update multiple business entities in a microservices-based application need to update multiple databases owned by different services. Using distributed transactions is usually not an option and you end up having to use an eventual consistency-based approach, which is more challenging for developers.
@@ -36,18 +57,18 @@ This is my personal interviews archives and it's where I store my research that 
 to each of the services.
 - Deploying a microservices-based application is also more complex. A monolithic application is simply deployed on a set of identical servers behind a load balancer. In contrast, a microservices-based application typically consists of a large number of services. Each service will have multiple runtime instances. And each instance needs to be configured, deployed, scaled, and monitored. In addition, you will also need to implement a service discovery mechanism. Manual approaches to operations cannot scale to this level of complexity and successful deployment of a microservices-based application requires a high level of automation.
 
-### Monolithic
+#### Monolithic
 
 <img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%202%20-%20monolithic_app.png width=1000 />
 
-#### Benefits
+##### Benefits
 
 - Simple to develop.
 - Simple to test. For example you can implement end-to-end testing by simply launching the application and testing the UI with Selenium or do unit/integration testing with RSpec.
 - Simple to deploy. You just have to copy the packaged application to a server.
 - Simple to scale horizontally by running multiple copies behind a load balancer.
 
-#### Drawbacks
+##### Drawbacks
 
 - This simple approach has a limitation in size and complexity.
 - Application is too large and complex to fully understand and made changes fast and correctly.
@@ -59,15 +80,6 @@ to each of the services.
 - Another problem with monolithic applications is reliability. Bug in any module (e.g. memory leak) can potentially bring down the entire process. Moreover, since all instances of the application are identical, that bug will impact the availability of the entire application.
 - Monolithic applications have a barrier to adopting new technologies. Since changes in frameworks or languages will affect an entire application it is extremely expensive in both time and cost.
 
-## System Design
-
-- What's availability of a system?
-- What's the latency between systems?
-- What's throughput of a system?
-- When do we need load balancing?
-- When do we need Database Replication?
-- When do we need Sharding?
-
 ## Ruby on Rails
 
 - What's a scope?
@@ -75,8 +87,7 @@ to each of the services.
 - If you were starting up a new Rails app, what gems would you add?
 - Have you ever worked with Rails Engines?
 - What was the biggest challenge you have faced with Rails APIs?
-- If we talk about Ruby frameworks, do you have to experience with any other
-framework outside of the Rails universe?
+- If we talk about Ruby frameworks, do you have experience with any other framework outside the Rails universe?
 - Do you prefer `Minitest` or `RSpec`? Why?
 - What kind of tests do you judge important and essential for a backend app?
 - What's a shared context in `RSpec`?

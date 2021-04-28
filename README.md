@@ -11,6 +11,7 @@ This is my personal interviews archives and it's where I store my research that 
       - [Benefits](#benefits)
       - [Drawbacks](#drawbacks)
   - [System Design](#system-design)
+  - [Ruby on Rails](#ruby-on-rails)
 
 ## Microservices x Monolithic application
 
@@ -66,3 +67,17 @@ to each of the services.
 - When do we need load balancing?
 - When do we need Database Replication?
 - When do we need Sharding?
+
+## Ruby on Rails
+
+- What's a scope?
+- Have you ever built a Rails app with a service-oriented architecture?
+- If you were starting up a new Rails app, what gems would you add?
+- Have you ever worked with Rails Engines?
+- What was the biggest challenge you have faced with Rails APIs?
+- If we talk about Ruby frameworks, do you have to experience with any other
+framework outside of the Rails universe?
+- Do you prefer `Minitest` or `RSpec`? Why?
+- What kind of tests do you judge important and essential for a backend app?
+- What's a shared context in `RSpec`?
+- What's `TDD`?

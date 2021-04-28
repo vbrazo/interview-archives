@@ -12,6 +12,8 @@ This is my personal interviews archives and it's where I store my research that 
         - [Benefits](#benefits)
         - [Drawbacks](#drawbacks)
   - [Ruby on Rails](#ruby-on-rails)
+  - [iOS](#iOS)
+  - [Android](#android)
 
 ## System Design
 
@@ -92,3 +94,25 @@ to each of the services.
 - What kind of tests do you judge important and essential for a backend app?
 - What's a shared context in `RSpec`?
 - What's `TDD`?
+
+## iOS
+
+- What’s the difference between var and let? Which one would you choose for properties in a struct and why?
+- What are lazy properties?
+- What are closures?
+- What’s the application and controller lifecycle?
+- Which are the ways of achieving concurrency in iOS?
+- Explain the different types of iOS Application States.
+- Describe managed object context and the functionality that it provides.
+- Have you ever written a networking layer? Describe briefly how did/would you do that?
+- How do you parse JSON in Swift? How do you parse XML in Swift?
+- What’s a dispatch group? 
+- How do you find and resolve memory leaks?
+- Do you have experience with unit testing? How about UI testing?
+- Have you ever developed a test-driven project (TDD)?
+- What is declarative programming? Have you tried SwiftUI yet?
+- Do you prefer imperative or declarative programming in iOS?
+
+## Android
+
+- Which are the ways of achieving concurrency in Android?

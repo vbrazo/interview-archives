@@ -112,6 +112,10 @@ to each of the services.
 - Have you ever developed a test-driven project (TDD)?
 - What is declarative programming? Have you tried SwiftUI yet?
 - Do you prefer imperative or declarative programming in iOS?
+- Explain the MVC architecture in iOS
+- Explain the MVP architecture in iOS
+- Explain the MVVM architecture in iOS
+- Explain the Viper architecture in iOS
 
 ## Android
 
@@ -128,3 +132,6 @@ to each of the services.
 - What is an Android Runtime?
 - What is the difference between a regular bitmap and a nine-patch image?
 - What is a sticky broadcast? Give an example.
+- Explain the MVC architecture in Android
+- Explain the MVP architecture in Android
+- Explain the MVVM architecture in Android

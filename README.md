@@ -6,7 +6,7 @@ This is my personal interviews archives and it's where I store my research that 
   - [Ruby on Rails](#ruby-on-rails)
   - [iOS](#ios)
   - [Android](#android)
-  - [System Design](#system-design)
+  - [Systems Design](#systems-design)
     - [General Questions](#general-questions) 
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
@@ -70,7 +70,7 @@ This is my personal interviews archives and it's where I store my research that 
 - Explain the MVP architecture in Android
 - Explain the MVVM architecture in Android
 
-## System Design
+## Systems Design
 
 ### General Questions
 

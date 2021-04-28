@@ -116,3 +116,15 @@ to each of the services.
 ## Android
 
 - Which are the ways of achieving concurrency in Android?
+- What is the difference between a fragment and an activity?
+- What are the core components under the Android application architecture?
+- What is the life cycle of android activity?
+- What is the difference between File, Class, and Activity in android?
+- What are broadcast receivers? How is it implemented?
+- What is a Service? How is it implemented?
+- What is the difference between Service and Thread?
+- How does Manifest file plays an integral role in App development?
+- What are some of the disadvantages of Android?
+- What is an Android Runtime?
+- What is the difference between a regular bitmap and a nine-patch image?
+- What is a sticky broadcast? Give an example.

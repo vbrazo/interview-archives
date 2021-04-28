@@ -3,7 +3,11 @@
 This is my personal interviews archives and it's where I store my research that aims to provide resources to better work with teams of developers in my engineering management journey.
 
 - [Interview Archives](#interview-archives)
+  - [Ruby on Rails](#ruby-on-rails)
+  - [iOS](#ios)
+  - [Android](#android)
   - [System Design](#system-design)
+    - [General Questions](#general-questions) 
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
         - [Benefits](#benefits)
@@ -11,11 +15,64 @@ This is my personal interviews archives and it's where I store my research that 
       - [Monolithic](#monolithic)
         - [Benefits](#benefits)
         - [Drawbacks](#drawbacks)
-  - [Ruby on Rails](#ruby-on-rails)
-  - [iOS](#iOS)
-  - [Android](#android)
+
+## Ruby on Rails
+
+- What's a scope?
+- Have you ever built a Rails app with a service-oriented architecture?
+- If you were starting up a new Rails app, what gems would you add?
+- Have you ever worked with Rails Engines?
+- What was the biggest challenge you have faced with Rails APIs?
+- If we talk about Ruby frameworks, do you have experience with any other framework outside the Rails universe?
+- Do you prefer `Minitest` or `RSpec`? Why?
+- What kind of tests do you judge important and essential for a backend app?
+- What's a shared context in `RSpec`?
+- What's `TDD`?
+
+## iOS
+
+- What’s the difference between var and let? Which one would you choose for properties in a struct and why?
+- What are lazy properties?
+- What are closures?
+- What’s the application and controller lifecycle?
+- Which are the ways of achieving concurrency in iOS?
+- Explain the different types of iOS Application States.
+- Describe managed object context and the functionality that it provides.
+- Have you ever written a networking layer? Describe briefly how did/would you do that?
+- How do you parse JSON in Swift? How do you parse XML in Swift?
+- What’s a dispatch group? 
+- How do you find and resolve memory leaks?
+- Do you have experience with unit testing? How about UI testing?
+- Have you ever developed a test-driven project (TDD)?
+- What is declarative programming? Have you tried SwiftUI yet?
+- Do you prefer imperative or declarative programming in iOS?
+- Explain the MVC architecture in iOS
+- Explain the MVP architecture in iOS
+- Explain the MVVM architecture in iOS
+- Explain the Viper architecture in iOS
+
+## Android
+
+- Which are the ways of achieving concurrency in Android?
+- What is the difference between a fragment and an activity?
+- What are the core components under the Android application architecture?
+- What is the life cycle of android activity?
+- What is the difference between File, Class, and Activity in android?
+- What are broadcast receivers? How is it implemented?
+- What is a Service? How is it implemented?
+- What is the difference between Service and Thread?
+- How does Manifest file plays an integral role in App development?
+- What are some of the disadvantages of Android?
+- What is an Android Runtime?
+- What is the difference between a regular bitmap and a nine-patch image?
+- What is a sticky broadcast? Give an example.
+- Explain the MVC architecture in Android
+- Explain the MVP architecture in Android
+- Explain the MVVM architecture in Android
 
 ## System Design
+
+### General Questions
 
 - What's availability of a system?
 - What's the latency between systems?
@@ -81,57 +138,3 @@ to each of the services.
 - Monolithic applications can also be difficult to scale when different modules have conflicting resource requirements.
 - Another problem with monolithic applications is reliability. Bug in any module (e.g. memory leak) can potentially bring down the entire process. Moreover, since all instances of the application are identical, that bug will impact the availability of the entire application.
 - Monolithic applications have a barrier to adopting new technologies. Since changes in frameworks or languages will affect an entire application it is extremely expensive in both time and cost.
-
-## Ruby on Rails
-
-- What's a scope?
-- Have you ever built a Rails app with a service-oriented architecture?
-- If you were starting up a new Rails app, what gems would you add?
-- Have you ever worked with Rails Engines?
-- What was the biggest challenge you have faced with Rails APIs?
-- If we talk about Ruby frameworks, do you have experience with any other framework outside the Rails universe?
-- Do you prefer `Minitest` or `RSpec`? Why?
-- What kind of tests do you judge important and essential for a backend app?
-- What's a shared context in `RSpec`?
-- What's `TDD`?
-
-## iOS
-
-- What’s the difference between var and let? Which one would you choose for properties in a struct and why?
-- What are lazy properties?
-- What are closures?
-- What’s the application and controller lifecycle?
-- Which are the ways of achieving concurrency in iOS?
-- Explain the different types of iOS Application States.
-- Describe managed object context and the functionality that it provides.
-- Have you ever written a networking layer? Describe briefly how did/would you do that?
-- How do you parse JSON in Swift? How do you parse XML in Swift?
-- What’s a dispatch group? 
-- How do you find and resolve memory leaks?
-- Do you have experience with unit testing? How about UI testing?
-- Have you ever developed a test-driven project (TDD)?
-- What is declarative programming? Have you tried SwiftUI yet?
-- Do you prefer imperative or declarative programming in iOS?
-- Explain the MVC architecture in iOS
-- Explain the MVP architecture in iOS
-- Explain the MVVM architecture in iOS
-- Explain the Viper architecture in iOS
-
-## Android
-
-- Which are the ways of achieving concurrency in Android?
-- What is the difference between a fragment and an activity?
-- What are the core components under the Android application architecture?
-- What is the life cycle of android activity?
-- What is the difference between File, Class, and Activity in android?
-- What are broadcast receivers? How is it implemented?
-- What is a Service? How is it implemented?
-- What is the difference between Service and Thread?
-- How does Manifest file plays an integral role in App development?
-- What are some of the disadvantages of Android?
-- What is an Android Runtime?
-- What is the difference between a regular bitmap and a nine-patch image?
-- What is a sticky broadcast? Give an example.
-- Explain the MVC architecture in Android
-- Explain the MVP architecture in Android
-- Explain the MVVM architecture in Android

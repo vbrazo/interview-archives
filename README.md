@@ -4,7 +4,7 @@ This is my personal interviews archives and it's where I store my research that 
 
 - [Interview Archives](#interview-archives)
   - [Ruby on Rails](#ruby-on-rails)
-  - [Reactjs](#reactjs)
+  - [React.js](#reactjs)
   - [iOS](#ios)
   - [Android](#android)
   - [QA](#qa)
@@ -30,6 +30,14 @@ This is my personal interviews archives and it's where I store my research that 
 - What kind of tests do you judge important and essential for a backend app?
 - What's a shared context in `RSpec`?
 - What's `TDD`?
+- What do subdirectory app/controllers and app/helpers do?
+- Name five things Rails Migration can do.
+- What is the Rails Controller?
+- How can you protect Rails against Cross-Site Request Forgery?
+- What does garbage collection do in Ruby on Rails?
+- Name three limits of Ruby on Rails.
+- What are some advantages of using Ruby on Rails?
+- Name the four types of variables available in Ruby Class.
 
 ## Reactjs
 

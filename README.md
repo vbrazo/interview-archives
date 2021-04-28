@@ -10,6 +10,7 @@ This is my personal interviews archives and it's where I store my research that 
     - [Monolithic](#monolithic)
       - [Benefits](#benefits)
       - [Drawbacks](#drawbacks)
+  - [System Design](#system-design)
 
 ## Microservices x Monolithic application
 
@@ -56,3 +57,12 @@ to each of the services.
 - Monolithic applications can also be difficult to scale when different modules have conflicting resource requirements.
 - Another problem with monolithic applications is reliability. Bug in any module (e.g. memory leak) can potentially bring down the entire process. Moreover, since all instances of the application are identical, that bug will impact the availability of the entire application.
 - Monolithic applications have a barrier to adopting new technologies. Since changes in frameworks or languages will affect an entire application it is extremely expensive in both time and cost.
+
+## System Design
+
+- What's availability of a system?
+- What's the latency between systems?
+- What's throughput of a system?
+- When do we need load balancing?
+- When do we need Database Replication?
+- When do we need Sharding?

@@ -4,6 +4,7 @@ This is my personal interviews archives and it's where I store my research that 
 
 - [Interview Archives](#interview-archives)
   - [Ruby on Rails](#ruby-on-rails)
+  - [Reactjs](#reactjs)
   - [iOS](#ios)
   - [Android](#android)
   - [QA](#qa)
@@ -29,6 +30,50 @@ This is my personal interviews archives and it's where I store my research that 
 - What kind of tests do you judge important and essential for a backend app?
 - What's a shared context in `RSpec`?
 - What's `TDD`?
+
+## Reactjs
+
+-	What is the difference between Element and Component?
+-	When to use a Class Component over a Function Component?
+-	What are Pure Components?
+-	What is state in React?
+-	What are props in React?
+-	What is the difference between state and props?
+-	Why should we not update the state directly?
+-	What is the purpose of callback function as an argument of setState()?
+-	What is the difference between HTML and React event handling?
+-	How to bind methods or event handlers in JSX callbacks?
+-	How to pass a parameter to an event handler or callback?
+-	What are synthetic events in React?
+-	What are inline conditional expressions?
+-	What is Virtual DOM?
+-	How Virtual DOM works?
+-	What are controlled components?
+- What are uncontrolled components?
+-	What is the difference between createElement and cloneElement?
+-	What are the different phases of component lifecycle?
+-	What are the lifecycle methods of React?
+-	What are Higher-Order components?
+-	What is context?
+-	What is children prop?
+-	What is the purpose of using super constructor with props argument?
+-	Is lazy function supports named exports?
+-	Why React uses className over class attribute?
+-	What are stateless components?
+-	What are stateful components?
+-	What will happen if you use setState in constructor?
+-	How you use decorators in React?
+-	How do you memoize a component?
+-	What are React Mixins?
+-	Why is isMounted() an anti-pattern and what is the proper solution?
+-	What are the Pointer Events supported in React?
+-	Why should component names start with capital letter?
+- What is the difference between constructor and getInitialState?
+-	Why ReactDOM is separated from React?
+-	How to listen to state changes?
+-	What is the recommended approach of removing an array element in react state?
+-	Is it possible to use React without rendering HTML?
+-	Why you can't update props in React?
 
 ## iOS
 

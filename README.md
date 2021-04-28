@@ -15,6 +15,8 @@ This is my personal interviews archives and it's where I store my research that 
 
 ### Microservices
 
+<img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%201%20-%20microservices.png width=1000 />
+
 #### Benefits
 
 - It tackles the problem of complexity by decomposing application into a set of manageable services which are much faster to develop, and much easier to understand and maintain.
@@ -33,6 +35,8 @@ to each of the services.
 - Deploying a microservices-based application is also more complex. A monolithic application is simply deployed on a set of identical servers behind a load balancer. In contrast, a microservices-based application typically consists of a large number of services. Each service will have multiple runtime instances. And each instance needs to be configured, deployed, scaled, and monitored. In addition, you will also need to implement a service discovery mechanism. Manual approaches to operations cannot scale to this level of complexity and successful deployment of a microservices-based application requires a high level of automation.
 
 ### Monolithic
+
+<img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%202%20-%20monolithic.png width=1000 />
 
 #### Benefits
 

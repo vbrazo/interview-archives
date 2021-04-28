@@ -3,10 +3,12 @@
 This is my personal interviews archives and it's where I store my research that aims to provide resources to better work with teams of developers in my engineering management journey.
 
 - [Interview Archives](#interview-archives)
-  - [Ruby on Rails](#ruby-on-rails)
-  - [React.js](#reactjs)
-  - [iOS](#ios)
-  - [Android](#android)
+  - [Full Stack Development](#full-stack-development)
+    - [Ruby on Rails](#ruby-on-rails)
+    - [React.js](#reactjs)
+  - [Mobile Development](#mobile-development)
+    - [iOS](#ios)
+    - [Android](#android)
   - [QA](#qa)
   - [Systems Design](#systems-design)
     - [General Questions](#general-questions) 
@@ -18,7 +20,9 @@ This is my personal interviews archives and it's where I store my research that 
         - [Benefits](#benefits)
         - [Drawbacks](#drawbacks)
 
-## Ruby on Rails
+## Full Stack Development
+
+### Ruby on Rails
 
 - What's a scope?
 - Have you ever built a Rails app with a service-oriented architecture?
@@ -39,7 +43,7 @@ This is my personal interviews archives and it's where I store my research that 
 - What are some advantages of using Ruby on Rails?
 - Name the four types of variables available in Ruby Class.
 
-## Reactjs
+### Reactjs
 
 -	What is the difference between Element and Component?
 -	When to use a Class Component over a Function Component?
@@ -83,7 +87,9 @@ This is my personal interviews archives and it's where I store my research that 
 -	Is it possible to use React without rendering HTML?
 -	Why you can't update props in React?
 
-## iOS
+## Mobile Development
+
+### iOS
 
 - What’s the difference between var and let? Which one would you choose for properties in a struct and why?
 - What are lazy properties?
@@ -105,7 +111,7 @@ This is my personal interviews archives and it's where I store my research that 
 - Explain the MVVM architecture in iOS
 - Explain the Viper architecture in iOS
 
-## Android
+### Android
 
 - Which are the ways of achieving concurrency in Android?
 - What is the difference between a fragment and an activity?

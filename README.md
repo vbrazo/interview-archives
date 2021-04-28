@@ -15,7 +15,7 @@ This is my personal interviews archives and it's where I store my research that 
 
 ### Microservices
 
-<img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%201%20-%20microservices.png width=1000 />
+<img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%201%20-%20microservices_app.png width=1000 />
 
 #### Benefits
 
@@ -36,7 +36,7 @@ to each of the services.
 
 ### Monolithic
 
-<img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%202%20-%20monolithic.png width=1000 />
+<img src=https://github.com/vbrazo/interview-archives/blob/main/docs/scenario%202%20-%20monolithic_app.png width=1000 />
 
 #### Benefits
 

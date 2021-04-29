@@ -42,6 +42,8 @@ This is my personal interviews archives and it's where I store my research that 
 - Name three limits of Ruby on Rails.
 - What are some advantages of using Ruby on Rails?
 - Name the four types of variables available in Ruby Class.
+- Explain MVC architecture.
+- What are your favorite design patterns in Ruby?
 
 ### Reactjs
 
@@ -77,7 +79,7 @@ This is my personal interviews archives and it's where I store my research that 
 -	How you use decorators in React?
 -	How do you memoize a component?
 -	What are React Mixins?
--	Why is isMounted() an anti-pattern and what is the proper solution?
+-	Why is `isMounted()` an anti-pattern and what is the proper solution?
 -	What are the Pointer Events supported in React?
 -	Why should component names start with capital letter?
 - What is the difference between constructor and getInitialState?
@@ -85,7 +87,6 @@ This is my personal interviews archives and it's where I store my research that 
 -	How to listen to state changes?
 -	What is the recommended approach of removing an array element in react state?
 -	Is it possible to use React without rendering HTML?
--	Why you can't update props in React?
 
 ## Mobile Development
 
@@ -152,9 +153,9 @@ This is my personal interviews archives and it's where I store my research that 
 - When do we need Database Replication?
 - When do we need Sharding?
 - What's Rate Limiting and when do we need to implement it?
-- Explain with your own words what Publish/Subscribe Pattern is.
+- Explain with your own words what Publish/Subscribe (Pub/Sub) Pattern is.
 - What's a reverse proxy and when to use?
-- What happens when you type https://www.paywith.com in your browser?
+- What happens when you type https://www.linkedin.com in your browser?
 - What's TCP/IP and HTTP? What are their responsibilities?
 - Do you have experience with Relational databases? Which ones?
 - Do you have experience with Non-Relational databases? Which ones?

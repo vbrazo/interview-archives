@@ -29,11 +29,7 @@ This is my personal interviews archives and it's where I store my research that 
     - [General Questions](#general-questions)
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
-        - [Benefits](#benefits)
-        - [Drawbacks](#drawbacks)
       - [Monolithic](#monolithic)
-        - [Benefits](#benefits)
-        - [Drawbacks](#drawbacks)
 
 ## Full Stack Development
 

@@ -12,6 +12,15 @@ This is my personal interviews archives and it's where I store my research that 
   - [QA](#qa)
   - [Systems Design](#systems-design)
     - [Interview Challenges](#interview-challenges)
+      - [Design A Code-Deployment System](#design-a-code-deployment-system)
+      - [Design GitHub](#design-github)
+      - [Design A Stockbroker](#design-a-stockbroker)
+      - [Design Facebook News Feed](#design-facebook-news-feed)
+      - [Design Google Drive](#design-google-drive)
+      - [Design The Reddit API](#design-the-reddit-api)
+      - [Design Netflix](#design-netflix)
+      - [Design Slack](#design-slack)
+      - [Design Airbnb](#design-airbnb)
     - [General Questions](#general-questions)
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
@@ -155,7 +164,7 @@ These challenges were created to be used in 1 hour session with a candidate.
 
 Design a global and fast code-deployment system.
 
-#### Design GitHub.com
+#### Design GitHub
 
 Design GitHub.com.
 

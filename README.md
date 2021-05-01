@@ -165,59 +165,59 @@ Many systems design questions are intentionally left very vague and are literall
 
 These challenges were created to be used in 1 hour session with a candidate.
 
-##### Design a Neobank
+#### Design a Neobank
 
 Design a Neobank.
 
-##### Design Stripe
+#### Design Stripe
 
 Design Stripe system.
 
-##### Design Apple Store
+#### Design Apple Store
 
 Design Apple Store.
 
-##### Design Whatsapp
+#### Design Whatsapp
 
 Design a chat app like Whatsapp.
 
-##### Design Instagram
+#### Design Instagram
 
 Design Instagram.
 
-##### Design A Code-Deployment System
+#### Design A Code-Deployment System
 
 Design a global and fast code-deployment system.
 
-##### Design GitHub
+#### Design GitHub
 
 Design www.github.com.
 
-##### Design A Stockbroker
+#### Design A Stockbroker
 
 Design a stockbroker: a platform that acts as the intermediary between end-customers and some central stock exchange.
 
-##### Design Facebook News Feed
+#### Design Facebook News Feed
 
 Design facebook news feed.
 
-##### Design Google Drive
+#### Design Google Drive
 
 Design Google Drive.
 
-##### Design The Instagram API
+#### Design The Instagram API
 
 Design the Instagram API.
 
-##### Design Netflix
+#### Design Netflix
 
 Design Netflix.
 
-##### Design Slack
+#### Design Slack
 
 Design Slack.
 
-##### Design Airbnb
+#### Design Airbnb
 
 Design Airbnb.
 

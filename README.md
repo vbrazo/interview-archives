@@ -11,7 +11,7 @@ This is my personal interviews archives and it's where I store my research that 
     - [Android](#android)
   - [QA](#qa)
   - [Systems Design](#systems-design)
-    - [Pair Design Interview Challenges](#pair-design-interview-challenges)
+    - [Interview Challenges](#interview-challenges)
     - [General Questions](#general-questions)
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
@@ -145,28 +145,7 @@ This is my personal interviews archives and it's where I store my research that 
 
 ## Systems Design
 
-### General Questions
-
-- What's availability of a system?
-- What's the latency between systems?
-- What's throughput of a system? How do you measure throughput?
-- When do we need load balancing? Explain what load balancing is and use cases.
-- When do we need Database Replication?
-- When do we need Sharding?
-- What's Rate Limiting and when do we need to implement it?
-- Explain with your own words what Publish/Subscribe (Pub/Sub) Pattern is.
-- What's a reverse proxy and when to use?
-- What happens when you type https://www.linkedin.com in your browser?
-- What's TCP/IP and HTTP? What are their responsibilities?
-- Do you have experience with Relational databases? Which ones?
-- Do you have experience with Non-Relational databases? Which ones?
-- What other types of Storage do you know?
-- What's the difference between Pooling and Streaming?
-- What are Peer-To-Peer Networks?
-- What's Leader Election?
-- What's MapReduce?
-
-### Pair Design Interview Challenges
+### Interview Challenges
 
 Many systems design questions are intentionally left very vague and are literally given in the form of `Design Foobar`. It's the candidates' job to ask clarifying questions to better understand the system that you have to build.
 
@@ -207,6 +186,27 @@ Design Slack.
 #### Design Airbnb
 
 Design Airbnb.
+
+### General Questions
+
+- What's availability of a system?
+- What's the latency between systems?
+- What's throughput of a system? How do you measure throughput?
+- When do we need load balancing? Explain what load balancing is and use cases.
+- When do we need Database Replication?
+- When do we need Sharding?
+- What's Rate Limiting and when do we need to implement it?
+- Explain with your own words what Publish/Subscribe (Pub/Sub) Pattern is.
+- What's a reverse proxy and when to use?
+- What happens when you type https://www.linkedin.com in your browser?
+- What's TCP/IP and HTTP? What are their responsibilities?
+- Do you have experience with Relational databases? Which ones?
+- Do you have experience with Non-Relational databases? Which ones?
+- What other types of Storage do you know?
+- What's the difference between Pooling and Streaming?
+- What are Peer-To-Peer Networks?
+- What's Leader Election?
+- What's MapReduce?
 
 ### Microservices x Monolithic application
 

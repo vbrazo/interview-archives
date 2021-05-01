@@ -12,12 +12,17 @@ This is my personal interviews archives and it's where I store my research that 
   - [QA](#qa)
   - [Systems Design](#systems-design)
     - [Interview Challenges](#interview-challenges)
-      - [Design A Code-Deployment System](#design-a-code-deployment-system)
+      - [Design a Neobank](#design-a-neobank)
+      - [Design Stripe](#design-stripe)
+      - [Design Apple Store](#design-apple-store)
+      - [Design Whatsapp](#design-whatsapp)
+      - [Design Instagram](#design-instagram)
+      - [Design a Code-Deployment System](#design-a-code-deployment-system)
       - [Design GitHub](#design-github)
-      - [Design A Stockbroker](#design-a-stockbroker)
+      - [Design a Stockbroker](#design-a-stockbroker)
       - [Design Facebook News Feed](#design-facebook-news-feed)
       - [Design Google Drive](#design-google-drive)
-      - [Design The Reddit API](#design-the-reddit-api)
+      - [Design The Instagram API](#design-the-instagram-api)
       - [Design Netflix](#design-netflix)
       - [Design Slack](#design-slack)
       - [Design Airbnb](#design-airbnb)
@@ -160,39 +165,59 @@ Many systems design questions are intentionally left very vague and are literall
 
 These challenges were created to be used in 1 hour session with a candidate.
 
-#### Design A Code-Deployment System
+##### Design a Neobank
+
+Design a Neobank.
+
+##### Design Stripe
+
+Design Stripe system.
+
+##### Design Apple Store
+
+Design Apple Store.
+
+##### Design Whatsapp
+
+Design a chat app like Whatsapp.
+
+##### Design Instagram
+
+Design Instagram.
+
+##### Design A Code-Deployment System
 
 Design a global and fast code-deployment system.
 
-#### Design GitHub
+##### Design GitHub
 
-Design GitHub.com.
+Design www.github.com.
 
-#### Design A Stockbroker
+##### Design A Stockbroker
 
 Design a stockbroker: a platform that acts as the intermediary between end-customers and some central stock exchange.
 
-#### Design Facebook News Feed
+##### Design Facebook News Feed
 
 Design facebook news feed.
 
-#### Design Google Drive
+##### Design Google Drive
 
 Design Google Drive.
 
-#### Design The Reddit API
+##### Design The Instagram API
 
-Design the Reddit API.
+Design the Instagram API.
 
-#### Design Netflix
+##### Design Netflix
 
 Design Netflix.
 
-#### Design Slack
+##### Design Slack
 
 Design Slack.
 
-#### Design Airbnb
+##### Design Airbnb
 
 Design Airbnb.
 

@@ -11,7 +11,8 @@ This is my personal interviews archives and it's where I store my research that 
     - [Android](#android)
   - [QA](#qa)
   - [Systems Design](#systems-design)
-    - [General Questions](#general-questions) 
+    - [Pair Design Interview Challenges](#pair-design-interview-challenges)
+    - [General Questions](#general-questions)
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
         - [Benefits](#benefits)
@@ -101,7 +102,7 @@ This is my personal interviews archives and it's where I store my research that 
 - Describe managed object context and the functionality that it provides.
 - Have you ever written a networking layer? Describe briefly how did/would you do that?
 - How do you parse JSON in Swift? How do you parse XML in Swift?
-- What’s a dispatch group? 
+- What’s a dispatch group?
 - How do you find and resolve memory leaks?
 - Do you have experience with unit testing? How about UI testing?
 - Have you ever developed a test-driven project (TDD)?
@@ -164,6 +165,48 @@ This is my personal interviews archives and it's where I store my research that 
 - What are Peer-To-Peer Networks?
 - What's Leader Election?
 - What's MapReduce?
+
+### Pair Design Interview Challenges
+
+Many systems design questions are intentionally left very vague and are literally given in the form of `Design Foobar`. It's the candidates' job to ask clarifying questions to better understand the system that you have to build.
+
+These challenges were created to be used in 1 hour session with a candidate.
+
+#### Design A Code-Deployment System
+
+Design a global and fast code-deployment system.
+
+#### Design GitHub.com
+
+Design GitHub.com.
+
+#### Design A Stockbroker
+
+Design a stockbroker: a platform that acts as the intermediary between end-customers and some central stock exchange.
+
+#### Design Facebook News Feed
+
+Design facebook news feed.
+
+#### Design Google Drive
+
+Design Google Drive.
+
+#### Design The Reddit API
+
+Design the Reddit API.
+
+#### Design Netflix
+
+Design Netflix.
+
+#### Design Slack
+
+Design Slack.
+
+#### Design Airbnb
+
+Design Airbnb.
 
 ### Microservices x Monolithic application
 

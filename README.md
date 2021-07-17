@@ -3,6 +3,7 @@
 This is my personal interviews archives and it's where I store my research that aims to provide resources to better interview developers in my engineering management journey.
 
 - [Interview Archives](#interview-archives)
+  - [Introduction](#introduction)
   - [Full Stack Development](#full-stack-development)
     - [Ruby on Rails](#ruby-on-rails)
     - [React.js](#reactjs)
@@ -30,6 +31,17 @@ This is my personal interviews archives and it's where I store my research that 
     - [Microservices x Monolithic application](#microservices-x-monolithic-application)
       - [Microservices](#microservices)
       - [Monolithic](#monolithic)
+
+## Introduction
+
+- Introduce yourself
+- What’s the most challenging project you’ve ever worked on?
+- How do you balance feature development and technical debt?
+- Tell me about your experience with QA.
+- Why do you want to work for this company (company, product, team, market, target group)?
+- Expectations? Motivations?
+- What are your biggest weaknesses and strengths?
+- Tell me a situation that you demonstrated to be a team player
 
 ## Full Stack Development
 

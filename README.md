@@ -4,6 +4,7 @@ This is my personal interviews archives and it's where I store my research that 
 
 - [Interview Archives](#interview-archives)
   - [Introduction](#introduction)
+  - [Project Retrospective](#project-retrospective)
   - [Full Stack Development](#full-stack-development)
     - [Ruby on Rails](#ruby-on-rails)
     - [React.js](#reactjs)
@@ -42,6 +43,20 @@ This is my personal interviews archives and it's where I store my research that 
 - Expectations? Motivations?
 - What are your biggest weaknesses and strengths?
 - Tell me a situation that you demonstrated to be a team player
+- Why do you want to move to Vancouver?
+- Peer Review/Pair Programming. Do you know what it’s?
+- Where do you see yourself in the next few years?
+- What is your preferred way to learn new things?
+- What do you value the most in a company?
+- How do you deal with issues/problems/not knowing how to accomplish something?
+
+## Project Retrospective
+
+- Tell me about a project that you are most proud of:
+  - What made this project technically interesting or complex?
+  - How did you set up your team for success with this project?
+  - Were there any conflicts during the project? How did you resolve them?
+  - What was the outcome of the project?
 
 ## Full Stack Development
 

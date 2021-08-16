@@ -13,6 +13,7 @@ This is my personal interviews archives and it's where I store my research that 
     - [Android](#android)
   - [QA](#qa)
   - [Systems Design](#systems-design)
+    - [Interview Questions](#interview-questions)
     - [Interview Challenges](#interview-challenges)
       - [Design a Neobank](#design-a-neobank)
       - [Design Stripe](#design-stripe)
@@ -181,6 +182,26 @@ This is my personal interviews archives and it's where I store my research that 
 - How important is it for QA to take part in development planning sessions?
 
 ## Systems Design
+
+### Interview Questions
+
+#### Question 1
+
+The goal is to build a service for tens of millions of Amazon shoppers, which will store each shopper’s past 100 viewed products. The stored data is shopper specific, and should be used for targeted product advertisements towards that shopper. It’s fine if this data is a little out-of-date. What kind of database should be used? Hint: The last sentence mentions it’s fine if the data is a bit stale. Hint 2: There is a lot of data that needs to be stored.
+
+Solution: NoSQL
+
+#### Question 2
+
+A company has been experiencing some scaling pains as the engineering team has been building a lot of new microservices and many of them make read requests to the main SQL database regarding customer metrics. The goal is to build a cache service that sits in front of the database to offload some of these read queries. This cache service should look up the query and if it hasn’t been cached in the last 10 minutes, then query the database for the result and cache it. Else, the cache service just gets the result from the cache without querying the main database. What kind of database should be used to build the cache? Hint: This database should be able to look up the cached result by the SQL query (string). Hint 2: The stored data is non-relational.
+
+Solution: NoSQL
+
+#### Question 3
+
+The goal is to build a service at PayPal that can allow users to apply for loans through the app. The service needs a database to store loan applications. In addition to the loan amount, the application also needs information regarding the user’s current balance and prior transaction history. What kind of database should be used? Hint: This is a financial application where data consistency is very important. Hint 2: Data about the loan, user’s balance and transaction history all need to be stored, and there’s relationships between these data.
+
+Solution: SQL
 
 ### Interview Challenges
 
